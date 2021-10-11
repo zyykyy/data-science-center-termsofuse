@@ -43,7 +43,7 @@ Contact DSC for assistance
 
 # Chapter 2  
 ### Creating Your Dataverse or Dataset: What's the Difference  
-![Dataverse Diagram](images/Dataverse-Diagram.png "Dataverse Diagram")  
+![Dataverse Diagram](asset/img/Dataverse-Diagram.png "Dataverse Diagram")  
 ### Dataverse Management  
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")  
 Fill in the following fields on the “New Dataverse” page (required fields in the form are denoted by a red asterisk, next to the label):      
