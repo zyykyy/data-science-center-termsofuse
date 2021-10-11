@@ -1,12 +1,10 @@
-+++
-title = "Getting Started"
-date = 2019-08-27T07:16:47-07:00
-weight = 3
-chapter = true
-pre = "<b>1. </b>"
-+++
+---
+layout: default
+title: 🚀 Get Started
+nav_order: 1
+---
 
-## Chapter 1
+# Chapter 1
 
 ## Account Creation  
 
@@ -43,9 +41,9 @@ Contact DSC for assistance
 
 - Also, please note that if you have forgotten your username, you can use this same process to receive your username in an email.  
 
-## Chapter 2  
+# Chapter 2  
 ### Creating Your Dataverse or Dataset: What's the Difference  
-![Dataverse Diagram](images/Dataverse-Diagram.png "Dataverse Diagram")  
+![Dataverse Diagram](assets/img/Dataverse-Diagram.png "Dataverse Diagram")  
 ### Dataverse Management  
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")  
 Fill in the following fields on the “New Dataverse” page (required fields in the form are denoted by a red asterisk, next to the label):      
@@ -59,7 +57,7 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 - **Also, this may have been corrected but avoid using *& (ampersand)*.**   
 - For assistance with HTML coding please contact the Data Science center      
 
-## Chapter 3  
+# Chapter 3  
 ### Dataset and File Management
 ![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
 
@@ -72,7 +70,7 @@ Other options:
 - add list here 
 
 
-## Chapter 4 
+# Chapter 4 
 ### Geospatial Content 
 #### Metadata  
 
