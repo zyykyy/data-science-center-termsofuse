@@ -4,9 +4,11 @@ title: Get Started
 nav_order: 1
 ---
 
-# Chapter 1
+# Get Started
 
-## Account Creation  
+## Chapter 1
+
+### Account Creation  
 
 UCLA Dataverse is available UCLA affiliated researchers, faculty, staff and students.   
 
@@ -40,10 +42,10 @@ Contact DSC for assistance
 
 - Also, please note that if you have forgotten your username, you can use this same process to receive your username in an email.  
 
-# Chapter 2  
-## Creating Your Dataverse or Dataset: What's the Difference  
+## Chapter 2  
+### Creating Your Dataverse or Dataset: What's the Difference  
 ![Dataverse Diagram](assets/img/Dataverse-Diagram.png "Dataverse Diagram")  
-## Dataverse Management  
+### Dataverse Management  
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")  
 Fill in the following fields on the “New Dataverse” page (required fields in the form are denoted by a red asterisk, next to the label):      
 - **Host Dataverse:** Select a dataverse you would like to create the new dataverse in, by default the root dataverse is selected if you click the Add Data button from the root dataverse, your My Data pg, the Add Data link in the navbar, or the Add a dataset button on the custom homepage (if configured), but you can select any dataverse for which you the proper permissions to create dataverses.  
@@ -56,29 +58,29 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 - **Also, this may have been corrected but avoid using *& (ampersand)*.**   
 - For assistance with HTML coding please contact the Data Science center      
 
-# Chapter 3  
-## Dataset and File Management
+## Chapter 3  
+### Dataset and File Management
 ![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
 
 ![Create a Dataset](images/new-dataset01.png "Create a Dataset")
 ![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")
 
-## Licenses and Terms 
+### Licenses and Terms 
 Creative Commons Public Domain Dedication (CC0 or CC Zero) is the default 
 Other options: 
 - add list here 
 
 
-# Chapter 4 
-## Geospatial Content 
-### Metadata  
+## Chapter 4 
+### Geospatial Content 
+#### Metadata  
 
 - Geospatial Metadata display view:  
 ![Geospatial Metadata Display View](images/geo_metadata_display.jpg "Geospatial Metadata Display View") 
 
 - Geospatial Metadata editing screen:  
 ![Geospatial Metadata editing screen](images/geo_metadata_edit.jpg "Geospatial Metadata editing screen") 
- ### GeoBlacklight Ingest Requirements:  
+#### GeoBlacklight Ingest Requirements:  
 - Geospatial files should be a **WGS-84 projection**. 
 - If the original is not WGS-84 create a copy and add along with the original file. 
 - For assistane creating the WGS-84 projection contact the DSC.
