@@ -10,16 +10,16 @@ nav_order: 1
 
 UCLA Dataverse is available UCLA affiliated researchers, faculty, staff and students.   
 
-### You will need only:
+  ### You will need only:
 A Shibboleth using a UCLA ID
 See UCLA Identity and Accounts Manager:  https://accounts.iam.ucla.edu/#/
 Contact DSC for assistance
 
-### What Happens When I Leave UCLA?
+  ### What Happens When I Leave UCLA?
 - When you are no longer affiliated with UCLA [fill in the answer here]
 
 
-### Logging into Dataverse
+  ### Logging into Dataverse
 - Log in at https://dataverse.ucla.edu/
 - Click the “Log In” link in the navbar.
 ![Dataverse Login screen](images/dataverse_login1b.jpg "Dataverse Login")
@@ -28,23 +28,23 @@ Contact DSC for assistance
 - Users will __not__ be using the account creation options since they should have a UCLA account before they are accessing our Dataverse.
 ![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
 
-### Logging in the first time  
+  ### Logging in the first time  
 ![Logging in the first time](images/account-info1.png "Logging in the first time")  
 1. Verify your email
 2. UCLA Dataverse accounts are institutional accounts. Account information cannot be edited when logged in through an institutional account.  Please contact UCLA Dataverse Support (https://dataverse.ucla.edu/dataverseuser.xhtml?selectTab=accountInfo#) for assistance.
 
-### Resetting your Password: UCLA Login
+  ### Resetting your Password: UCLA Login
 - If you are using your **UCLA Login (email)** you will need to reset your password through the **UCLA IT Support Center**: <https://www.it.ucla.edu/iamucla/reset-password>
 
-### Resetting your Password: Other Accounts
+  ### Resetting your Password: Other Accounts
 - For all other accounts: If you cannot remember this password, click on Log In in the top right corner of any page and click the “Forgot Password?” link below where you would enter your username/email and password. Enter your email address and click “Submit Password Request” to receive an email with a link to reset your password.  
 
 - Also, please note that if you have forgotten your username, you can use this same process to receive your username in an email.  
 
 # Chapter 2  
-### Creating Your Dataverse or Dataset: What's the Difference  
+## Creating Your Dataverse or Dataset: What's the Difference  
 ![Dataverse Diagram](assets/img/Dataverse-Diagram.png "Dataverse Diagram")  
-### Dataverse Management  
+## Dataverse Management  
 ![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")  
 Fill in the following fields on the “New Dataverse” page (required fields in the form are denoted by a red asterisk, next to the label):      
 - **Host Dataverse:** Select a dataverse you would like to create the new dataverse in, by default the root dataverse is selected if you click the Add Data button from the root dataverse, your My Data pg, the Add Data link in the navbar, or the Add a dataset button on the custom homepage (if configured), but you can select any dataverse for which you the proper permissions to create dataverses.  
@@ -58,21 +58,21 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 - For assistance with HTML coding please contact the Data Science center      
 
 # Chapter 3  
-### Dataset and File Management
+## Dataset and File Management
 ![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
 
 ![Create a Dataset](images/new-dataset01.png "Create a Dataset")
 ![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")
 
-### Licenses and Terms 
+## Licenses and Terms 
 Creative Commons Public Domain Dedication (CC0 or CC Zero) is the default 
 Other options: 
 - add list here 
 
 
 # Chapter 4 
-### Geospatial Content 
-#### Metadata  
+## Geospatial Content 
+  ### Metadata  
 
 - Geospatial Metadata display view:  
 ![Geospatial Metadata Display View](images/geo_metadata_display.jpg "Geospatial Metadata Display View") 
@@ -80,7 +80,7 @@ Other options:
 - Geospatial Metadata editing screen:  
 ![Geospatial Metadata editing screen](images/geo_metadata_edit.jpg "Geospatial Metadata editing screen") 
 
-#### GeoBlacklight Ingest Requirements:  
+  ### GeoBlacklight Ingest Requirements:  
 - Geospatial files should be a **WGS-84 projection**. 
 - If the original is not WGS-84 create a copy and add along with the original file. 
 - For assistane creating the WGS-84 projection contact the DSC.
