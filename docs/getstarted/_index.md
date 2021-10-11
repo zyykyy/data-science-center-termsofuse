@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 🚀 Get Started
+title: Get Started
 nav_order: 1
 ---
 
