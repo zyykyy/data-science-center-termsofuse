@@ -1,6 +1,6 @@
 site_name: 'Terms of Use'
-site_description: 'Port of the Read the Docs theme to Jekyll to use with GitHub Pages.'
-repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+site_description: 'The Terms of Use for GeoBlacklight at UCLA.'
+repo_url: ' https://zyykyy.github.io/data-science-center-termsofuse/'
 repo_name: 'GitHub'
 docs_dir: 'docs/'
 site_dir: '_site_mkdocs/'
