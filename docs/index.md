@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Read The Docs Theme for Jekyll and GitHub Pages
-nav_exclude: False
+nav_exclude: TRUE
 ---
 
 # Read The Docs Theme for Jekyll and GitHub Pages
