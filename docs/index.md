@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Read The Docs Theme for Jekyll and GitHub Pages
 nav_exclude: False
 ---
 
