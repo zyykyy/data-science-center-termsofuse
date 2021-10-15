@@ -3,7 +3,7 @@ layout: default
 title: FAQ
 nav_order: 2
 ---
-
+# FAQ 
 ## Index
 - [What is DataVerse?](#what-is-dataverse)
 - [What is UCLA DataVerse?](#what-is-ucla-dataverse)
