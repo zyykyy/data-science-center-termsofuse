@@ -9,7 +9,7 @@ webrick:
 
 # Theme settings
 site_author: Jamie Jamison & Zhiyuan Yao
-repo_url: 'https://zyykyy.github.io/data-science-center-termsofuse/'
+repo_url: 'https://github.com/zyykyy/data-science-center-termsofuse'
 edit_on_github: true
 github_docs_folder: false
 sticky_navigation: true
