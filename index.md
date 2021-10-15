@@ -1,16 +1,20 @@
 ---
 layout: default
-title: Local Development Index Page
+title: Introduction
 nav_order: 1
 ---
 
-# Local Development Index Page
+# UCLA Library Data Science Center
 
-This index page is only visible if developing the theme as Jekyll is served
-from the repository top directory.
+The Data Science Center's mission is to foster a welcoming research community by developing data literacy and foundational coding skills through consulting and education. We support researchers throughout the full data life cycle of activities: planning research projects and data management plans; data acquisition, storage, cleaning, and usage; analysis; publication; curation; and preservation. 
 
-The Docs folder index page can be reached following
-[this link](docs/index.html).
+We:
 
-In the normal GitHub Pages deployment the Docs index can be reached clicking
-on the home link at the top of the left navigation bar.
+Provide support for the full data science lifecycle
+Build data science infrastructure that promotes sharing, data use and lifecycle management
+Provide support for computational reproducibility and discovery
+Contribute to data science instructional and curricula support
+Provide support and referrals for researchers needing to work at scale (beyond the laptop)
+A good sense of the activities we aspire to support can be gleaned from this data lifecycle:
+
+![lifecycle](assets/img/realizing-datasci.jpg)

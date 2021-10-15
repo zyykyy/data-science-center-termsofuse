@@ -3,4 +3,4 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll-theme-rtd"
+# gem "jekyll-theme-rtd"
