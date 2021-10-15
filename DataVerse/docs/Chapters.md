@@ -23,14 +23,14 @@ Contact DSC for assistance
 ## Logging into Dataverse
 - Log in at https://dataverse.ucla.edu/
 - Click the “Log In” link in the navbar.
-![Dataverse Login screen](images/dataverse_login1b.jpg "Dataverse Login")
+![Dataverse Login screen](assets/img/dataverse_login1b.jpg "Dataverse Login")
 - UCLA uses an Institutional Log-in. Choose “University of California, Los Angeles”  
-![Dataverse Login screen](images/dataverse_login2b.png "Dataverse Login")
+![Dataverse Login screen](assets/img/dataverse_login2b.png "Dataverse Login")
 - Users will __not__ be using the account creation options since they should have a UCLA account before they are accessing our Dataverse.
-![Dataverse Login screen](images/dataverse_login3b.png "Dataverse Login")
+![Dataverse Login screen](assets/img/dataverse_login3b.png "Dataverse Login")
 
 ## Logging in the first time  
-![Logging in the first time](images/account-info1.png "Logging in the first time")  
+![Logging in the first time](assets/img/account-info1.png "Logging in the first time")  
 1. Verify your email
 2. UCLA Dataverse accounts are institutional accounts. Account information cannot be edited when logged in through an institutional account.  Please contact UCLA Dataverse Support (https://dataverse.ucla.edu/dataverseuser.xhtml?selectTab=accountInfo#) for assistance.
 
@@ -46,7 +46,7 @@ Contact DSC for assistance
 ## Creating Your Dataverse or Dataset: What's the Difference  
 ![Dataverse Diagram](assets/img/Dataverse-Diagram.png "Dataverse Diagram")  
 ### Dataverse Management  
-![Create a Dataverse](images/new-dataverse.png "Create a Dataverse")  
+![Create a Dataverse](assets/img/new-dataverse.png "Create a Dataverse")  
 Fill in the following fields on the “New Dataverse” page (required fields in the form are denoted by a red asterisk, next to the label):      
 - **Host Dataverse:** Select a dataverse you would like to create the new dataverse in, by default the root dataverse is selected if you click the Add Data button from the root dataverse, your My Data pg, the Add Data link in the navbar, or the Add a dataset button on the custom homepage (if configured), but you can select any dataverse for which you the proper permissions to create dataverses.  
 - **Dataverse Name:** Enter the name of your dataverse.  
@@ -60,10 +60,10 @@ Fill in the following fields on the “New Dataverse” page (required fields in
 
 # Chapter 3  
 ## Dataset and File Management
-![Datasets Diagram](images/dataverse-DatasetDiagram.png "Datasets Diagram")
+![Datasets Diagram](assets/img/dataverse-DatasetDiagram.png "Datasets Diagram")
 
-![Create a Dataset](images/new-dataset01.png "Create a Dataset")
-![Add files to Dataset](images/new-dataset03.png "Add files to Dataset")
+![Create a Dataset](assets/img/new-dataset01.png "Create a Dataset")
+![Add files to Dataset](assets/img/new-dataset03.png "Add files to Dataset")
 
 ### Licenses and Terms 
 Creative Commons Public Domain Dedication (CC0 or CC Zero) is the default 
@@ -76,10 +76,10 @@ Other options:
 ### Metadata  
 
 - Geospatial Metadata display view:  
-![Geospatial Metadata Display View](images/geo_metadata_display.jpg "Geospatial Metadata Display View") 
+![Geospatial Metadata Display View](assets/img/geo_metadata_display.jpg "Geospatial Metadata Display View") 
 
 - Geospatial Metadata editing screen:  
-![Geospatial Metadata editing screen](images/geo_metadata_edit.jpg "Geospatial Metadata editing screen") 
+![Geospatial Metadata editing screen](assets/img/geo_metadata_edit.jpg "Geospatial Metadata editing screen") 
 ### GeoBlacklight Ingest Requirements:  
 - Geospatial files should be a **WGS-84 projection**. 
 - If the original is not WGS-84 create a copy and add along with the original file. 
