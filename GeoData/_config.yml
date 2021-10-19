@@ -1,5 +1,5 @@
-title: Read The Docs Jekyll Theme
-description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
+title: GeoData
+description: GeoData is an online platform for geospatial data discovery at UCLA. GeoData is built upon GeoBlacklight. 
 remote_theme: carlosperate/jekyll-theme-rtd
 
 # Theme settings:
